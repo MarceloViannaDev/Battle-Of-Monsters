@@ -8,4 +8,5 @@ export const colors = {
   lightBlue: '#E1F8FF',
   progressColor: '#00FF00',
   progressBarBackground: '#D9D9D9',
+  weakColor: 'red',
 };
